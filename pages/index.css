@@ -1,0 +1,10 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/promo-baikal/promo-baikal.css);
+@import url(../blocks/footer/footer.css);
